@@ -70,9 +70,11 @@ public class Server {
 		br.close();
 		serverSocket.close();
 		socket.close();
+		
+		
+		System.out.println("test");
 	}
 
-	
 	
 	
 }
