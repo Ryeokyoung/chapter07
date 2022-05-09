@@ -72,7 +72,7 @@ public class Server {
 		socket.close();
 		
 		
-		System.out.println("test");
+		System.out.println("test2");
 	}
 
 	
